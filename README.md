@@ -16,9 +16,9 @@ On the data set, respectively;
 ##### • In the same way, we graphed a sentence that we chose spontaneously.
 
 
-<img align="right"  width="450" height="270" src="https://github.com/ilaydacelikk/Text-Mining/assets/139812573/b1416006-505d-4a54-aea9-3d1305cb837b">
+<img align="right"  width="400" height="270" src="https://github.com/ilaydacelikk/Text-Mining/assets/139812573/b1416006-505d-4a54-aea9-3d1305cb837b">
 
-<img align="left"  width="450" height="270" src="https://github.com/ilaydacelikk/Text-Mining/assets/139812573/60bc681f-0aa4-4c05-a456-8f293c3d8209">
+<img align="left"  width="400" height="270" src="https://github.com/ilaydacelikk/Text-Mining/assets/139812573/60bc681f-0aa4-4c05-a456-8f293c3d8209">
 
 
 
