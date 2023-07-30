@@ -5,10 +5,10 @@ Created on Sun Jul 30 23:11:32 2023
 @author: ilayd
 """
 
-#Ödevimde kullanacağım metni Afet İnan'ın "Atatürk Hakkında Hatıralar ve 
+#Bu metni Afet İnan'ın "Atatürk Hakkında Hatıralar ve 
 #Belgeler" adlı kitabının "Kadın Hakları Üzerine" adlı bölümünden aldım.
 
-# Metini ham haliyle incelenmesi zor olacağındanstandart hale getirecek bazı işlemler uygulamamız gerek.
+# Metini ham haliyle incelenmesi zor olacağından standart hale getirecek bazı işlemler uygulamamız gerek.
 # Bu işlemleri sırası ile gerçekleştirelim.
 
 
